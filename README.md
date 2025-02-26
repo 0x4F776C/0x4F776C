@@ -4,11 +4,11 @@
 
 It's ice-breaking time!
 
-- 🔭 I’m currently working on advanced Windows Malware research & development
+- 🔭 I’m currently working on advanced Windows malware research & development
 - 🌱 I’m currently learning how to make the perfect fried chicken with just a pot
 - 👯 I’m looking to collaborate on project with regards to Command & Control development
 - 🤔 I’m looking for help with creating a automated plant watering system that has access to MSS data
-- 💬 Ask me about how I scored 174 for PSLE -> got enlightened in ITE -> representing TP for WSS Cybersec -> CS undergrad in NUS
+- 💬 Ask me about how I scored 174 for PSLE -> scored badly for N-level -> got enlightened in ITE -> representing TP for WSS Cybersec -> CS undergrad in NUS
 - 📫 How to reach me: call me maybe?...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my dog can stand on 2 legs (yes.. like a T-Rex)

@@ -9,9 +9,9 @@ It's ice-breaking time!
 - 👯 I’m looking to collaborate on project with regards to Command & Control development
 - 🤔 I’m looking for help with creating a automated plant watering system that has access to MSS data
 - 💬 Ask me about how I scored 174 for PSLE -> scored badly for N-level -> got enlightened in ITE -> representing TP for WSS Cybersec -> CS undergrad in NUS
-- 📫 How to reach me: call me maybe?...
+- 📫 How to reach me: https://www.linkedin.com/in/lee-chun-hao
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my dog can stand on 2 legs (yes.. like a T-Rex)
+- ⚡ Fun fact: my dog can stand on 2 legs
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x4F776C&hide=html,scss,stylus,blade,jupyter%20notebook,css,dockerfile&theme=dracula&show_icons=true" />

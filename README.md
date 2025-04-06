@@ -1,21 +1,42 @@
-## Hi there 🤖
+# 👋 Hello, I'm Chun Hao! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+<div align="center">
+  
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Malware+Developer;Security+Researcher;Red-Team-Operator;Dog+Lover&font=Fira%20Code&center=true&width=380&height=50">
+</div>
+
+## 🔐 Cybersecurity Journey
 [![HackTheBox](https://www.hackthebox.eu/badge/image/152036)](https://www.hackthebox.eu/home/users/profile/152036)
 
-It's ice-breaking time!
+## 🛠️ Current Focus
+- 🔍 Advanced Windows malware research & development
+- 🍗 Perfecting fried chicken recipes with minimal tools
+- 🌐 Command & Control infrastructure development
+- 🌱 Building automated plant watering systems integrated with MSS data
 
-- 🔭 I’m currently working on advanced Windows malware research & development
-- 🌱 I’m currently learning how to make the perfect fried chicken with just a pot
-- 👯 I’m looking to collaborate on project with regards to Command & Control development
-- 🤔 I’m looking for help with creating a automated plant watering system that has access to MSS data
-- 💬 Ask me about how I scored 174 for PSLE -> scored badly for N-level -> got enlightened in ITE -> representing TP for WSS Cybersec -> CS undergrad in NUS
-- 📫 How to reach me: https://www.linkedin.com/in/lee-chun-hao
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my dog can stand on 2 legs
+## 💻 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,powershell,windows,bash,linux,docker,kubernetes,googlecloud" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x4F776C&hide=html,scss,stylus,blade,jupyter%20notebook,css,dockerfile&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0x4F776C&theme=dracula&rank_icon=github&show_icons=true" />
-</a>
+## 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x4F776C&hide=html,scss,stylus,blade,jupyter%20notebook,css,dockerfile&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0x4F776C&theme=dracula&rank_icon=github&show_icons=true" />
+  </a>
+</div>
+
+## 🎯 Fun Facts
+- 🐕 My dog can walk on 2 legs for 5 minutes
+- 🍳 I am the chef of the family (3 levels down the tree)
+- 🌟 I got attacked by a peacock and was forced to hold my breath underwater for 2mins+
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-chun-hao)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x4F776C)

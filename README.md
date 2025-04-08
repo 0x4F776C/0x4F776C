@@ -1,10 +1,6 @@
 # 👋 Hello, I'm Chun Hao! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div align="center">
-  
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Malware+Developer;Security+Researcher;Red-Team+Operator;Dog+Lover&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
@@ -16,6 +12,14 @@
 - 🍗 Perfecting fried chicken recipes with minimal tools
 - 🌐 Command & Control infrastructure development
 - 🌱 Building automated plant watering systems integrated with MSS data
+
+## 🚀 My Portfolio & Blog
+
+Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share posts about:
+* Malware Analysis & Development
+* Cybersecurity Lab Setups
+* Tool Development & Testing
+* And other cybersecurity topics!
 
 ## 💻 Tech Stack
 <div align="center">

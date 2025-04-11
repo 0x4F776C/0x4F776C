@@ -23,7 +23,7 @@ Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share p
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,powershell,windows,bash,linux,docker,kubernetes,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,dotnet,powershell,windows,bash,linux,docker,kubernetes,googlecloud,digitalocean" />
 </div>
 
 ## 📊 GitHub Analytics

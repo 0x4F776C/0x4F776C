@@ -15,11 +15,7 @@
 
 ## 🚀 My Portfolio & Blog
 
-Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share posts about:
-* Malware Analysis & Development
-* Cybersecurity Lab Setups
-* Tool Development & Testing
-* And other cybersecurity topics!
+Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share posts about malware analysis & development!
 
 ## 💻 Tech Stack
 <div align="center">

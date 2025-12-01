@@ -19,18 +19,17 @@ Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share p
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,dotnet,powershell,windows,bash,linux,docker,kubernetes,googlecloud,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,javascript,dotnet,powershell,windows,bash,linux,docker,kubernetes,digitalocean" />
 </div>
 
+<!--
 ## 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x4F776C&hide=html,scss,stylus,blade,jupyter%20notebook,css,dockerfile&theme=dracula&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0x4F776C&theme=dracula&rank_icon=github&show_icons=true" />
+    <img height=200 align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4F776C)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
 </div>
+-->
 
 ## 🎯 Fun Facts
 - 🐕 My dog can walk on 2 legs for 5 minutes

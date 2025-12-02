@@ -13,9 +13,11 @@
 - 🌐 Command & Control infrastructure development
 - 🌱 Building automated plant watering systems integrated with MSS data
 
+<!--
 ## 🚀 My Portfolio & Blog
 
 Check out my **[GitHub Pages Site](https://0x4f776c.github.io)** where I share posts about malware analysis & development!
+-->
 
 ## 💻 Tech Stack
 <div align="center">
